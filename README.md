@@ -44,4 +44,4 @@ To get a local copy up and running, follow these steps:
 ### Installation Steps
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/mystery-code.git
+   git clone https://github.com/Nagasurya-Randhi/mystery-code.git
